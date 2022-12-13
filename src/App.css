@@ -1,0 +1,11 @@
+.textfield {
+  width: 50%;
+  background-color: #d7d3ce;
+  border: 10px black;
+}
+.postbutton {
+  background-color: red;
+  width: 5%;
+  margin-right: 1%;
+  margin-left: 1%;
+}
